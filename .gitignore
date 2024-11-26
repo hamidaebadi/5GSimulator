@@ -1,0 +1,45 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+*~
+
+# Generated files
+Makefile
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.a
+*.so
+*.dll
+*.dylib
+*.class
+
+# Debug and profiling files
+*.pdb
+*.ilk
+*.dsym
+vgcore.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db

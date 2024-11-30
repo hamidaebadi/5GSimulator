@@ -42,7 +42,7 @@ cd 5G_Network_Simulator
 
 ## **Building the Project**
 
-### ** Step1: Create a build directory**
+### **Step1: Create a build directory**
 
 `mkdir build`
 `cd build`

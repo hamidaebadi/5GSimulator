@@ -38,6 +38,7 @@ Ensure the following tools are installed on your system:
 ```bash
 git clone https://github.com/hamidaebadi/5G_Network_Simulator.git
 cd 5G_Network_Simulator
+```
 
 ## **Building the Project**
 
